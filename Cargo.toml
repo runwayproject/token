@@ -2,5 +2,13 @@
 name = "runway-token"
 version = "0.1.0"
 edition = "2024"
+authors = ["uncognic <uncognic@proton.me>"]
+license = "MIT"
+description = "A library for the Runway token format"
+homepage = "https://github.com/runwayproject/token"
+repository = "https://github.com/runwayproject/token"
+readme = "README.md"
+keywords = ["runway", "runwayproject"]
+categories = ["parser-implementations"]
 
 [dependencies]
